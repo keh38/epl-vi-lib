@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.20 (2026-09-15)
+#### Changed
+- made TCP byte-order required input; otherwise the addition of this input silently breaks existing usages
+
+---
+
 ### v1.19 (2025-12-29)
 #### Added
 - Win32-Move Window To Top.vim
